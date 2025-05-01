@@ -1,5 +1,5 @@
 This folder contains data files and code to accompany Kuhn et al. 2025 (in review). The data files and code including required materials for model development and and upscaling of annual methane emissions for the boreal arctic region. 
-Gridded methane emissions products can be found in Zenodo under " Gridded product of methane emissions from Boreal-Arctic wetlands and lakes" by Kuhn et al. 
+Gridded methane emissions products can be found in Zenodo under " Gridded product of methane emissions from Boreal-Arctic wetlands and lakes" by Kuhn et al (https://zenodo.org/records/14991411). The gridded product is required to run "lake_model_development.R". The original BAWLD dataset from Olefeldt et al. 2021 ESSD can also be used (https://essd.copernicus.org/articles/13/5127/2021/).
 Any questions can be directed to kuhn.mckenzie@gmail.com
 
 Instructions: 
